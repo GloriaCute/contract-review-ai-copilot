@@ -10,6 +10,12 @@
 
 公开 Demo 使用冻结示例数据，不调用真实模型 API，可直接体验审核、原文定位、人工复核和 PDF 报告完整流程。
 
+## 项目资料
+
+- [查看示例审核报告](docs/sample-review-report.pdf)
+- [查看产品级评测说明](docs/evaluation.md)
+- [查看审核规则包说明](docs/rule-pack.md)
+
 ## 项目亮点
 
 - **完整审核闭环**：DOCX 上传 → AI 事实抽取 → 规则判断 → 原文定位 → 人工复核 → PDF 报告。
